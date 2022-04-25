@@ -1,0 +1,6 @@
+{
+  "glossarynav": {
+    "component": "GlossaryNav",
+    "composition": "children"
+  }
+}
