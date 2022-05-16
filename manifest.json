@@ -1,7 +1,7 @@
 {
   "vendor": "eriksbikeshop",
   "name": "glossarynav",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "GlossaryNav",
   "description": "GlossaryNav component",
   "defaultLocale": "pt-BR",
